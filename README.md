@@ -1,6 +1,7 @@
 STATUS: Experimental
 
-# CoMakery Carbon Credit
+# CFLO Carbon Credit System 
+Forked from CoMakery Carbon Credit
 
 A an ERC20 token backed by carbon credits - allows certified issuance, transfer and retirement.
 
